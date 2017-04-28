@@ -1,0 +1,25 @@
+{
+    "name": "run-esx",
+    "version": "0.0.1",
+    "description": "run-esx 以babel->es7+支持最高特性,执行引导入口文件",
+    "main": "index.js",
+    "scripts": { "test": "echo \"Error:  no test specified\" && exit 1" },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:githbq/hbq-run-esx.git"
+    },
+    "keywords": ["run-esx","es7","babel"],
+    "author": "hubiqing",
+    "license": "MIT",
+    "bugs": { "url": "git@github.com:githbq/hbq-run-esx.git" },
+    "homepage": "git@github.com:githbq/hbq-run-esx.git#readme",
+    "dependencies": {
+        "babel-core": "^6.7.5",
+        "babel-plugin-add-module-exports": "^0.1.2",
+        "babel-plugin-transform-es2015-modules-commonjs": "^6.7.4",
+        "babel-polyfill": "^6.1.4",
+        "babel-preset-es2015-node5": "^1.2.0",
+        "babel-preset-stage-3": "^6.5.0",
+        "debug": "2.2.0"
+    }
+}
