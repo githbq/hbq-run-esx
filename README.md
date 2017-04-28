@@ -5,7 +5,9 @@
 ![my love](./logo.png)
 ## 用例
 ``` javascript
-require('run-esx')('./index');
+//新建文件  run
+#!/usr/bin/env node
+require('run-esx')([__dirname,'index']);
 ```
 > 这样你就可以尽情的在index里使用es7+了
 
