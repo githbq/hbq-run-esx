@@ -11,4 +11,4 @@ require('run-esx')([__dirname,'index']);
 ```
 > 这样你就可以尽情的在index里使用es7+了
 
-> 改自runKos,但是runEsx 作了一些限制,只好重写它的核心代码,会经常与runEsx跟进!
+> 改自runKoa,但是runEsx 作了一些限制,只好重写它的核心代码,会经常与runEsx跟进!

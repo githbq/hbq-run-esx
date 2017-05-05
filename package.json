@@ -1,6 +1,6 @@
 {
     "name": "run-esx",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "run-esx 以babel->es7+支持最高特性,执行引导入口文件",
     "main": "index.js",
     "scripts": { "test": "echo \"Error:  no test specified\" && exit 1" },
